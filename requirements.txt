@@ -6,3 +6,9 @@ pydantic==1.8.2
 boto3==1.26.137
 google-generativeai==0.2.0
 python-multipart==0.0.5
+pandas
+pyodbc
+scikit-surprise
+Flask
+# Add any other specific dependencies if needed
+# Make sure the version of pyodbc matches your environment and driver
